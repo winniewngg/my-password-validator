@@ -61,7 +61,7 @@ To do so, you will need to have Python 3 installed on your machine.
 
 ### Testing the Endpoint
 
-In this section, replace `https://password-validator.onrender.com/` with the URL of your Render app (or of your local server, if you are running it locally).
+https://my-password-validator-c0e9.onrender.com
 
 **Browser test:** Go to https://password-validator.onrender.com/; you should see the "`Hello from my Password Validator!`" text.
 
